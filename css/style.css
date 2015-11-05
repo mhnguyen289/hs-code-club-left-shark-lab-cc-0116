@@ -1,0 +1,13 @@
+body {
+  background: url(../images/stage.jpg) no-repeat;
+  background-size: 1200px 700px;
+}
+
+img {
+  margin-top: 25%;
+  margin-left: 10%;
+}
+
+.huge{
+  height: 600px;
+}
