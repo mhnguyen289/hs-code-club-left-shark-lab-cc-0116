@@ -61,3 +61,5 @@ Don't forget to shut down your server by hitting `control` and `c` before you mo
 
 
 
+
+<a href='https://learn.co/lessons/hs-code-club-left-shark-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
