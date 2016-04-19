@@ -17,5 +17,7 @@ $( document ).ready(function() {
     $('#left-shark').fadeIn();
   });
 
-
 });
+
+    Status API Training Shop Blog About 
+
